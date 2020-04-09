@@ -1,0 +1,29 @@
+100
+Insertion Sort: 5e-05
+Radix Sort: 0.000105
+std::sort: 2.2e-05
+
+1000
+Insertion Sort: 0.00094
+Radix Sort: 0.00113
+std::sort: 0.000411
+
+10000
+Insertion Sort: 0.010581
+Radix Sort: 0.00738
+std::sort: 0.003546
+
+100000
+Insertion Sort: 0.347152
+Radix Sort: 0.044181
+std::sort: 0.02654
+
+1000000
+Insertion Sort: 31.5662
+Radix Sort: 0.438503
+std::sort: 0.316195
+
+10000000
+Insertion Sort: 7221.48
+Radix Sort: 4.40004
+std::sort: 3.65311
